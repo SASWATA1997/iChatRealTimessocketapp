@@ -1,0 +1,17 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "this is chat app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "saswata",
+  "license": "ISC",
+  "dependencies": {
+    "Access-Control-Allow-Origin": "*",
+    "cors": "^2.8.5",
+    "nodemon": "^3.0.1",
+    "socket.io": "^4.7.2"
+  }
+}
