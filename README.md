@@ -1,4 +1,4 @@
-# iChatRealTimessocketapp
+# PLEASE READ THIS FILE TO RUN iChatRealTimessocketapp
 1. this is areal time  chatting application using socket .io
 2. use npm i socket.io / npm i in backend node model
 3. use nodemon to run the backend program as server
